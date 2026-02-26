@@ -3,7 +3,7 @@
     {
       "version": "1.0.0",
       "title": "My First Widget",
-      "type": "my_first_widget",
+      "type": "my_company_first_widget",
       "description": "A simple hello world widget",
       "category": "custom",
       "containers": ["Full width"],
